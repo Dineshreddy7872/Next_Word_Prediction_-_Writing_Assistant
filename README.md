@@ -1,5 +1,6 @@
 
 🧠 Next Word Prediction using NLP & Transformers
+
 📌 Overview
 
 This project implements a Next Word Prediction system using Natural Language Processing (NLP) and Transformer-based models (GPT-2).
