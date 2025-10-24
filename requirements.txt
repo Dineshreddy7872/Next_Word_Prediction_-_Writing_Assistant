@@ -1,0 +1,11 @@
+transformers>=4.30.0
+datasets>=2.10.0
+torch>=1.13.0
+accelerate>=0.18.0
+sentencepiece
+streamlit
+numpy
+tqdm
+pytest
+safetensors
+tokenizers
