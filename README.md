@@ -28,15 +28,6 @@ The model was fine-tuned on a text dataset and deployed through a Streamlit web 
 | Environment          | Google Colab (GPU)        |
 
 
-Next-Word-Prediction/
-│
-├── next_word_prediction.ipynb     # Colab notebook (training + app)
-├── app.py                         # Streamlit app file
-├── requirements.txt               # Dependencies
-├── sample_output.png              # Screenshot of app
-├── README.md                      # Project documentation
-└── data/
-    └── sample_text.txt            # Optional dataset
 
 🧠 How It Works
 
