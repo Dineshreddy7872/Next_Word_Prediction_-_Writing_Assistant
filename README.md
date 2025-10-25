@@ -75,4 +75,14 @@ Add support for multilingual prediction
 
 Integrate with chatbots or text editors
 
+
+<img width="1366" height="770" alt="Streamlit app1" src="https://github.com/user-attachments/assets/3e888b7e-2d1a-4f79-84af-147969986dad" />
+
+
+
+
+
+
+
+
 🤝 Connect With Me
